@@ -5,7 +5,7 @@
 ## Fork 
 <p>Feel free to fork this repo to modify and make changes of your own. Please give me proper credit by linking it back to this repo. Thanks! 
   <br/> 
-  The design for this project is inspired by <a href="https://github.com/soumyajit4419/Portfolio">vilvan.</a></p>
+  The design for this project is inspired by <a href="https://github.com/Vilvan/Portfolio">vilvan.</a></p>
 
 ## About 
 <p>This project is my personal portfolio which features some of my skills, GitHub projects and my resume.</p>
@@ -51,5 +51,6 @@
 ## Support
 <p>Show your support by leaving a star ⭐ on this repo, if you like the website.</p>
 <p>Fell free to point out any bugs🪲 or improvements in the issues tab.</p>
+
 
 
