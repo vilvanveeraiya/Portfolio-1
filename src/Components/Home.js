@@ -3,7 +3,8 @@ import Lottie from  "lottie-react";
 import SpaceBoy from "../LottieFiles/SpaceBoy.json";
 import Typed from "./Typed.js";
 import Tilt from 'react-parallax-tilt';
-import Avatar from '../images/Avatar.png';
+import Avatar from '../images/protfio.jpeg';
+
 import {CiCoffeeCup} from "react-icons/ci";
 
 const Home = () => {
@@ -13,7 +14,7 @@ const Home = () => {
 
         <div className='HomeText'>
           <h1>Hi There!</h1>
-          <h1>I'M <b>DEVANSH SAHNI</b></h1>
+          <h1>I'M <b>Vilvan</b></h1>
           <Typed/>   
         </div>
 
@@ -29,15 +30,21 @@ const Home = () => {
         <div className='AboutText'>
           <h1 className='AboutTextHeading'>Brief <b>introduction</b></h1>
           <p>
-            I love the process of changing a raw idea into a website or a product 
-            that impacts lives. 
-            I want to do work that challenges me as a developer & work that I can 
-            be proud of.<br /><br />
-            I am fluent in <b>C++</b> and know a bit of <b>Python</b> and am working on a few 
-            projects in the <b>MERN</b> stack.<br />
-            I plan to learn <b>Next.js</b>, <b>Three.js</b> and<b> Typescript</b> in the near future. <br /><br />
-            Also, I love <b>coffee</b> <CiCoffeeCup style={{scale:"1.5", rotate:"15deg"}}/>   
-          </p>
+  Hi, I’m <b>Vilvan</b>, a passionate <b>Java Full Stack Developer</b> from 
+  <b> Pudukkottai, Tamil Nadu, India</b>.
+  <br /><br />
+  I enjoy building complete web applications by converting ideas into 
+  real-world solutions using <b>Java, Spring Boot, React.js, and MySQL</b>.
+  I focus on writing clean, efficient, and maintainable code.
+  <br /><br />
+  I am actively seeking opportunities where I can learn, grow, and 
+  contribute as a developer. I enjoy problem-solving, continuous learning, 
+  and collaborating with others to build impactful applications.
+  <br /><br />
+  Apart from coding, I enjoy learning new technologies and I love 
+  <b> coffee</b> <CiCoffeeCup style={{ scale: "1.5", rotate: "15deg" }} />
+</p>
+
         </div>
         <Tilt>
           <img className='Avatar' src={Avatar} alt="" />
